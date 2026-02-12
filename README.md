@@ -27,4 +27,4 @@ The model processes a video file frame-by-frame, performs object detection, and 
 
   - NumPy
 
-
+⚠️NOTE: Detection works only for supported categories.
