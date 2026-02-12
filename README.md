@@ -27,4 +27,14 @@ The model processes a video file frame-by-frame, performs object detection, and 
 
   - NumPy
 
+OUTPUT:
+
+
+
+<img width="418" height="596" alt="3dObj_output" src="https://github.com/user-attachments/assets/dece4bc1-d150-46b8-b014-097f03ffe2c9" />
+
+
+<img width="514" height="346" alt="Screenshot 2026-02-13 022531" src="https://github.com/user-attachments/assets/7c7e2ec9-8207-481f-ae1f-0f56f3b9cc89" />
+
+
 ⚠️NOTE: Detection works only for supported categories.
